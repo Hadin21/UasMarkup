@@ -1,0 +1,44 @@
+body {
+    min-height:1000px;
+    background-color: #123c69;
+}
+.jumbotron {
+    padding-top: 7rem;
+    background-color: #123c69;
+}
+
+#activity {
+    background-color: #ac3b61;
+    padding-top: 6rem;
+}
+h1 {
+    font-family: "Purple Purse", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #BAB2b5;
+  }
+p1 {
+    font-family: "Young serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.myprofile{
+  padding-top: 10rem;
+  background-color: #123c69;
+}
+table {
+  background-color: #BAB2b5;
+}
+caption {
+  text-align: center;
+  color: #BAB2b5;
+}
+h3 {
+  font-weight: 800;
+}
+h2 {
+  font-weight: 800;
+}
+footer {
+  text-align: center;
+}
